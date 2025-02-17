@@ -47,7 +47,7 @@
 
 ### Computer Vision & Graphics
 
-| Project | Title | Key Technologies | Groups | GitHub Links |
+| Project #| Title | Key Technologies | Groups | GitHub Links |
 |-----------|--------|-----------------|---------|--------------|
 | P22 | Medical Image Segmentation | MONAI, 3DSlicer | 2 | [EN](project_lists/en/P22%20-%20Automatic%20segmentation%20of%20computed%20tomography%20scans%20using%20MONAI%20and%203DSlicer.pdf) / [ZH](project_lists/zh/P22%20-%20Automatic%20segmentation%20of%20computed%20tomography%20scans%20using%20MONAI%20and%203DSlicer.pdf) |
 | P29 | English to Indian Sign Language Translator | Computer Vision, ML | 2 | [EN](project_lists/en/P29%20-%20English%20to%20Indian%20Sign%20Language%20Translator.pdf) / [ZH](project_lists/zh/P29%20-%20English%20to%20Indian%20Sign%20Language%20Translator.pdf) |

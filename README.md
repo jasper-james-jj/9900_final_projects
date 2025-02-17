@@ -4,7 +4,7 @@
 
 ### Full Stack Web Applications
 
-| Project | Title | Key Technologies | Groups | GitHub Links |
+| Project #| Title | Key Technologies | Groups | GitHub Links |
 |-----------|--------|-----------------|---------|--------------|
 | P1 | AcademicHub | React, APIs, Database | 2 | [EN](project_lists/en/P1%20-%20AcademicHub.pdf) / [ZH](project_lists/zh/P1%20-%20AcademicHub.pdf) |
 | P7 | CeleStE Conference Management | Web, Mobile, AI chatbot | 5 | [EN](project_lists/en/P7%20-%20CeleStE%20Conference%20Management%20Software.pdf) / [ZH](project_lists/zh/P7%20-%20CeleStE%20Conference%20Management%20Software.pdf) |
@@ -16,7 +16,7 @@
 
 ### AI-Enhanced Web Applications
 
-| Project | Title | Key Technologies | Groups | GitHub Links |
+| Project #| Title | Key Technologies | Groups | GitHub Links |
 |-----------|--------|-----------------|---------|--------------|
 | P14 | AI Comment Moderation | RAG, Classification Models | 4 | [EN](project_lists/en/P14%20-%20AI%20Comment%20Moderation%20_%20RAG%20and%20Classification%20modelling.pdf) / [ZH](project_lists/zh/P14%20-%20AI%20Comment%20Moderation%20_%20RAG%20and%20Classification%20modelling.pdf) |
 | P16 | AI Chatbot for Student Inquiries | RAG, NLP | 3 | [EN](project_lists/en/P16%20-%20AI%20Chatbot%20that%20answers%20students%20inquiries.pdf) / [ZH](project_lists/zh/P16%20-%20AI%20Chatbot%20that%20answers%20students%20inquiries.pdf) |
@@ -27,7 +27,7 @@
 
 ## 2. Mobile Development Focus
 
-| Project | Title | Key Technologies | Groups | GitHub Links |
+| Project #| Title | Key Technologies | Groups | GitHub Links |
 |-----------|--------|-----------------|---------|--------------|
 | P15 | Social Mobile Application | React Native, Supabase | 3 | [EN](project_lists/en/P15%20-%20Social%20Mobile%20Application%20with%20in_app%20coins.pdf) / [ZH](project_lists/zh/P15%20-%20Social%20Mobile%20Application%20with%20in_app%20coins.pdf) |
 | P28 | Stronger Brains Cross-Platform App | Mobile, Cloud Computing | 2 | [EN](project_lists/en/P28%20-%20Stronger%20Brains_%20Cross_Platform%20App%20for%20Brain%20Training%20_%20Education.pdf) / [ZH](project_lists/zh/P28%20-%20Stronger%20Brains_%20Cross_Platform%20App%20for%20Brain%20Training%20_%20Education.pdf) |
@@ -37,7 +37,7 @@
 
 ### Natural Language Processing
 
-| Project | Title | Key Technologies | Groups | GitHub Links |
+| Project #| Title | Key Technologies | Groups | GitHub Links |
 |-----------|--------|-----------------|---------|--------------|
 | P2 | Automated Program Repair | LLMs, Code Analysis | 3 | [EN](project_lists/en/P2%20-%20Automated%20Program%20Repair%20System%20Based%20on%20Large%20Language%20Models_Artificial%20Intelligence.pdf) / [ZH](project_lists/zh/P2%20-%20Automated%20Program%20Repair%20System%20Based%20on%20Large%20Language%20Models_Artificial%20Intelligence.pdf) |
 | P5 | Conversational Agent for Group Projects | LLMs, NLP | 2 | [EN](project_lists/en/P5%20-%20Conversational%20Agent%20as%20facilitator%20for%20Group%20Projects.pdf) / [ZH](project_lists/zh/P5%20-%20Conversational%20Agent%20as%20facilitator%20for%20Group%20Projects.pdf) |
@@ -54,7 +54,7 @@
 
 ## 4. Data Science & Analytics Focus
 
-| Project | Title | Key Technologies | Groups | GitHub Links |
+| Project #| Title | Key Technologies | Groups | GitHub Links |
 |-----------|--------|-----------------|---------|--------------|
 | P4 | Optical Tracking Pipeline | Python, Docker | 1 | [EN](project_lists/en/P4%20-%20Optical%20Tracking%20Pipeline%20for%20UNSW%20C14%20Telescope%20System.pdf) / [ZH](project_lists/zh/P4%20-%20Optical%20Tracking%20Pipeline%20for%20UNSW%20C14%20Telescope%20System.pdf) |
 | P9 | Genetic Search for Vehicle Routing | Algorithms, Optimization | 3 | [EN](project_lists/en/P9%20-%20Enhancing%20Genetic%20Search%20for%20A%20Novel%20Fuel%20Cell%20Vehicle%20Routing%20Problem.pdf) / [ZH](project_lists/zh/P9%20-%20Enhancing%20Genetic%20Search%20for%20A%20Novel%20Fuel%20Cell%20Vehicle%20Routing%20Problem.pdf) |
@@ -66,14 +66,14 @@
 
 ### Robotics & Hardware
 
-| Project | Title | Key Technologies | Groups | GitHub Links |
+| Project #| Title | Key Technologies | Groups | GitHub Links |
 |-----------|--------|-----------------|---------|--------------|
 | P11 | Web Interface for Robot Motion Control | ROS, Web Development | 2 | [EN](project_lists/en/P11%20-%20Web%20Interface%20for%20Hugging%20Motion%20Control%20of%20a%20Human_like%20Robot.pdf) / [ZH](project_lists/zh/P11%20-%20Web%20Interface%20for%20Hugging%20Motion%20Control%20of%20a%20Human_like%20Robot.pdf) |
 | P12 | AI Driving Coach | SimHub, Telemetry, IoT | 2 | [EN](project_lists/en/P12%20-%20AI%20Driving%20Coach_%20Using%20Telemetry%20Data%20to%20Analyse%20Car%20Performance%20_%20Driver%20Emotion.pdf) / [ZH](project_lists/zh/P12%20-%20AI%20Driving%20Coach_%20Using%20Telemetry%20Data%20to%20Analyse%20Car%20Performance%20_%20Driver%20Emotion.pdf) |
 
 ### Systems Programming
 
-| Project | Title | Key Technologies | Groups | GitHub Links |
+| Project #| Title | Key Technologies | Groups | GitHub Links |
 |-----------|--------|-----------------|---------|--------------|
 | P19 | Automated E8 Compliance | System APIs, PowerShell | 3 | [EN](project_lists/en/P19%20-%20Automated%20E8%20Compliance%20and%20Remediation.pdf) / [ZH](project_lists/zh/P19%20-%20Automated%20E8%20Compliance%20and%20Remediation.pdf) |
 | P25 | EMG Data Processing Software | GUI, Signal Processing | 2 | [EN](project_lists/en/P25%20-%20Developing%20software%20application%20for%20decomposing%20and%20editing%20high_density%20EMG%20experimental%20data%20into%20motor%20unit%20firing%20patterns.pdf) / [ZH](project_lists/zh/P25%20-%20Developing%20software%20application%20for%20decomposing%20and%20editing%20high_density%20EMG%20experimental%20data%20into%20motor%20unit%20firing%20patterns.pdf) |

@@ -24,7 +24,7 @@
 |------------|--------------|-------------------|
 | [P2](project_lists/en/P2%20-%20Automated%20Program%20Repair%20System%20Based%20on%20Large%20Language%20Models_Artificial%20Intelligence.pdf) | Automated Program Repair System | - Python Programming<br>- LLM Integration<br>- Code Analysis |
 | [P5](project_lists/en/P5%20-%20Conversational%20Agent%20as%20facilitator%20for%20Group%20Projects.pdf) | Conversational Agent for Group Projects | - LLM Development<br>- Database Management<br>- Conversation Design |
-| [P14](project_lists/en/P14%20-%20AI%20Comment%20Moderation%20_%20RAG%20and%20Classification%20modelling.pdf) | AI Comment Moderation | - RAG Implementation<br>- Classification Models<br>- Python Programming |
+| 🌟🌟🌟 [P14](project_lists/en/P14%20-%20AI%20Comment%20Moderation%20_%20RAG%20and%20Classification%20modelling.pdf) | AI Comment Moderation | - RAG Implementation<br>- Classification Models<br>- Python Programming |
 | [P16](project_lists/en/P16%20-%20AI%20Chatbot%20that%20answers%20students%20inquiries.pdf) | AI Chatbot for Student Inquiries | - React<br>- NLP<br>- Database Integration |
 | [P18](project_lists/en/P18%20-%20AI%20chatbot%20for%20future%20energy%20workforce%20development.pdf) | AI chatbot for energy workforce | - LLM Integration<br>- Domain Knowledge<br>- Web Development |
 | [P20](project_lists/en/P20%20-%20Development%20of%20AI%20Chatbots%20for%20Student%20Wellbeing.pdf) | AI Chatbots for Student Wellbeing | - NLP<br>- Psychology Integration<br>- User Interface Design |
@@ -41,7 +41,7 @@
 | [P23](project_lists/en/P23%20-%20Conference%20program%20committee%20recommender%20system.pdf) | Conference Committee Recommender | - Recommendation Systems<br>- Data Mining<br>- Python |
 | [P24](project_lists/en/P24%20-%20Online%20Audio%20Quality%20Rating%20System.pdf) | Audio Quality Rating System | - Audio Processing<br>- Cloud Services<br>- API Development |
 | [P29](project_lists/en/P29%20-%20English%20to%20Indian%20Sign%20Language%20Translator.pdf) | Sign Language Translator | - Computer Vision<br>- Python<br>- ML Models |
-| [P32](project_lists/en/P32%20-%20Financial%20Market%20Analytics%20Application.pdf) | Financial Market Analytics | - Financial APIs<br>- ML/AI<br>- Data Visualization |
+| 🌟🌟🌟 [P32](project_lists/en/P32%20-%20Financial%20Market%20Analytics%20Application.pdf) | Financial Market Analytics | - Financial APIs<br>- ML/AI<br>- Data Visualization |
 | [P70](project_lists/en/P70%20-%20Vehicle%20Parts%20Recommender.pdf) | Vehicle Parts Recommender | - Market Basket Analysis<br>- ML Models<br>- Web Development |
 | [P74](project_lists/en/P74%20-%20AI%20powered%20financial%20advice.pdf) | AI powered financial advice | - Financial Analysis<br>- LLM Integration<br>- Cloud Computing |
 

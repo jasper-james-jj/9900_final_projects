@@ -13,7 +13,7 @@
 | [P19](project_lists/en/P19%20-%20Automated%20E8%20Compliance%20and%20Remediation.pdf) | Automated E8 Compliance and Remediation | - Cybersecurity<br>- Web Development<br>- System Integration |
 | [P26](project_lists/en/P26%20-%20Web%20Platform%20for%20Microservices%20and%20APIs.pdf) | Web Platform for Microservices and APIs | - Microservices Architecture<br>- API Development<br>- Database Management |
 | [P27](project_lists/en/P27%20-%20Web%20Application%20for%20Project%20Contests.pdf) | Web Application for Project Contests | - Web Development<br>- Database Design<br>- Testing Frameworks |
-| [P63](project_lists/en/P63%20-%20SAT%20Decisions%20Scraper%20_%20Search%20Application%20with%20RAG%20_Retrieval_Augmented%20Generation_.pdf) | SAT Decisions Scraper & Search Application | - Web Scraping<br>- RAG Implementation<br>- Flask/FastAPI |
+| 🌟🌟🌟 [P63](project_lists/en/P63%20-%20SAT%20Decisions%20Scraper%20_%20Search%20Application%20with%20RAG%20_Retrieval_Augmented%20Generation_.pdf) | SAT Decisions Scraper & Search Application | - Web Scraping<br>- RAG Implementation<br>- Flask/FastAPI |
 | [P71](project_lists/en/P71%20-%20Code%20Solving%20Web%20Platform.pdf) | Code Solving Web Platform | - IDE Integration<br>- Docker<br>- Security Implementation |
 | [P72](project_lists/en/P72%20-%20Video%20Sharing%20Web%20Platform.pdf) | Video Sharing Web Platform | - Video Processing<br>- Streaming Implementation<br>- Cloud Storage |
 | [P73](project_lists/en/P73%20-%20Web%20development%20and%20business%20solution.pdf) | Web development and business solution | - CRM Integration<br>- Digital Marketing<br>- AI Implementation |
@@ -28,17 +28,17 @@
 | [P16](project_lists/en/P16%20-%20AI%20Chatbot%20that%20answers%20students%20inquiries.pdf) | AI Chatbot for Student Inquiries | - React<br>- NLP<br>- Database Integration |
 | [P18](project_lists/en/P18%20-%20AI%20chatbot%20for%20future%20energy%20workforce%20development.pdf) | AI chatbot for energy workforce | - LLM Integration<br>- Domain Knowledge<br>- Web Development |
 | [P20](project_lists/en/P20%20-%20Development%20of%20AI%20Chatbots%20for%20Student%20Wellbeing.pdf) | AI Chatbots for Student Wellbeing | - NLP<br>- Psychology Integration<br>- User Interface Design |
-| [P33](project_lists/en/P33%20-%20Conversational%20AI%20system%20for%20renewable%20energy%20asset%20management.pdf) | Conversational AI for renewable energy | - React<br>- Python<br>- AWS Integration |
+| 🌟🌟🌟 [P33](project_lists/en/P33%20-%20Conversational%20AI%20system%20for%20renewable%20energy%20asset%20management.pdf) | Conversational AI for renewable energy | - React<br>- Python<br>- AWS Integration |
 
 ## AI/ML Projects
 
 | Project ID | Project Title | Key Skills Required |
 |------------|--------------|-------------------|
-| [P6](project_lists/en/P6%20-%20Design%20and%20development%20of%20a%20project%20recommendation%20system%20based%20on%20Profiles%20Complementarity.pdf) | Project Recommendation System | - Python<br>- PyTorch<br>- Recommendation Algorithms |
+| 🌟🌟🌟 [P6](project_lists/en/P6%20-%20Design%20and%20development%20of%20a%20project%20recommendation%20system%20based%20on%20Profiles%20Complementarity.pdf) | Project Recommendation System | - Python<br>- PyTorch<br>- Recommendation Algorithms |
 | [P9](project_lists/en/P9%20-%20Enhancing%20Genetic%20Search%20for%20A%20Novel%20Fuel%20Cell%20Vehicle%20Routing%20Problem.pdf) | Genetic Search for Fuel Cell Vehicle | - Python/MATLAB<br>- Genetic Algorithms<br>- Optimization |
 | [P12](project_lists/en/P12%20-%20AI%20Driving%20Coach_%20Using%20Telemetry%20Data%20to%20Analyse%20Car%20Performance%20_%20Driver%20Emotion.pdf) | AI Driving Coach | - Telemetry Data Processing<br>- Emotion Analysis<br>- Real-time Processing |
 | [P22](project_lists/en/P22%20-%20Automatic%20segmentation%20of%20computed%20tomography%20scans%20using%20MONAI%20and%203DSlicer.pdf) | CT Scan Segmentation | - MONAI Framework<br>- 3D Slicer<br>- Medical Imaging |
-| [P23](project_lists/en/P23%20-%20Conference%20program%20committee%20recommender%20system.pdf) | Conference Committee Recommender | - Recommendation Systems<br>- Data Mining<br>- Python |
+| 🌟🌟🌟 [P23](project_lists/en/P23%20-%20Conference%20program%20committee%20recommender%20system.pdf) | Conference Committee Recommender | - Recommendation Systems<br>- Data Mining<br>- Python |
 | [P24](project_lists/en/P24%20-%20Online%20Audio%20Quality%20Rating%20System.pdf) | Audio Quality Rating System | - Audio Processing<br>- Cloud Services<br>- API Development |
 | [P29](project_lists/en/P29%20-%20English%20to%20Indian%20Sign%20Language%20Translator.pdf) | Sign Language Translator | - Computer Vision<br>- Python<br>- ML Models |
 | 🌟🌟🌟 [P32](project_lists/en/P32%20-%20Financial%20Market%20Analytics%20Application.pdf) | Financial Market Analytics | - Financial APIs<br>- ML/AI<br>- Data Visualization |
